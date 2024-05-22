@@ -1,1 +1,1 @@
-- Praktikum 4 - Basis Data
+* Praktikum 4 - Basis Data
